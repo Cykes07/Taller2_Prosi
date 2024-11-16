@@ -4,5 +4,6 @@ Líder - Zaruma Game Joshua - Computación
 Miembro - Rodriguez Pineda Sergio - Computación
 Miembro - Zhang Plaza Bryan - Computación
 Motivo:
-Sabe bien sobre Linux y Scripts.
+Maneja bien Linux y Scripts.
+División:
 Sergio trabajó en el makeFile mientras Bryan y Joshua trabajaron en el script, al final todos revisamos el trabajo y dimos correcciones.
