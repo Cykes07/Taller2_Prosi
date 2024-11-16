@@ -6,7 +6,7 @@ function verificar_ubicacion() {
             echo "Ubicación válida: $1"
             break
         else
-            echo "La ubicación ingresada no es válida. Por favor, intenta nuevamente."
+            echo "Ubicación no válida. Intenta de nuevo"
             read -p "Ingresa una ubicación válida: " ubicacion
             set -- "$ubicacion"
         fi
@@ -26,4 +26,4 @@ find . -mindepth 2 -type f -exec chmod 542 {} \;
 
 find . -exec ls -ld {} \; > final.txt
 
-echo "Proceso completado. Los resultados están en original.txt y final.txt."
+echo "Archivos generados con éxito."
